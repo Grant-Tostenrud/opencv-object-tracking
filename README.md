@@ -6,6 +6,8 @@ This app takes in an input video and outputs three things:
   - A single image of the final path of the object at the end of the input video.
   - A plot along with a quantitative percentage of area covered using color detection.
 
+There could be many uses for this app such as testing robotic cleaners or even could be expanded to track athletes during a soccer game.
+
 Built With
 Python - Used to execute the project
 OpenCV
